@@ -36,6 +36,10 @@ Use this link for more info (https://docs.github.com/en/get-started/quickstart/c
 5. In the repository, create app.py and requirements.txt files
 
 
+<p align="center">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_5.png" width="250" height="250">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_6.png" width="250" height="250">
+</p>
 
 
 6. Launch your application through the streamlit server
