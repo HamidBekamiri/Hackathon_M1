@@ -21,13 +21,16 @@ Use this link for more info (https://docs.github.com/en/get-started/quickstart/c
     <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3.png" width="250" height="250">
     <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3_2.png" width="250" height="250">
     <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3_3.png" width="250" height="250">
-
 </p>
 
 
 
 
 4. Upload your data in the repository, if you have data locally you can upload it to the repository.
+
+<p align="center">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3_3.png" width="250" height="250">
+</p>
 
 
 5. In the repository, create app.py and requirements.txt files
