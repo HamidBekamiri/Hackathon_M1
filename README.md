@@ -1,7 +1,7 @@
 # Hackathon_M1
 A repository can be created and launched on the internet in this part. In this way, it is very easy for all team members to see and change the code at the same time. Based on this, you have a pipeline that integrates all the parts of the process.
 
-For creating your team's group repository, please follow these steps:
+## For creating your team's group repository, please follow these steps:
 After a member of your team creates a gitHub repository, others can be invited to it.
 Use this link for more info (https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
