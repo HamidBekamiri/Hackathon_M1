@@ -1,6 +1,0 @@
-numpy
-pillow
-matplotlib
-wordcloud
-sentence_transformers
-vega_datasets
