@@ -10,6 +10,9 @@ Use this link for more info (https://docs.github.com/en/get-started/quickstart/c
 </p>
 2. Send an invitation for adding other team members as contributors to the repository. Use the setting tab and collaborators part in the left menu. Use add people button for adding team members to the repository. Use their GitHub username for inviting. Use this link for more info  (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
 
+<p align="center">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_2.png" width="250" height="250">
+</p>
 
 3. Create a new colab notebook and save it in the repository
 
