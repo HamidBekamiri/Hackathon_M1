@@ -39,6 +39,8 @@ Use this link for more info (https://docs.github.com/en/get-started/quickstart/c
 <p align="center">
     <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_5.png" width="250" height="250">
     <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_6.png" width="250" height="250">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_7.png" width="250" height="250">
+
 </p>
 
 
