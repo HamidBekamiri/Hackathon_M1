@@ -5,7 +5,7 @@ A repository can be created and launched on the internet in this part. In this w
 1. After a member of your team creates a gitHub repository, others can be invited to it.
 Use this link for more info (https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
-[!image](https://raw.githubusercontent.com/HamidBekamiri/Hackathon_M1/main/images/Screenshot%202022-09-13%20at%2019.43.59.png)
+[!image](https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/Screenshot%202022-09-13%20at%2019.43.59.png?raw=true)
 
 Send an invitation for adding other team members as contributors to the repository. Use the setting tab and collaborators part in the left menu. Use add people button for adding team members to the repository. Use their GitHub username for inviting.
 
