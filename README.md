@@ -6,9 +6,7 @@ A repository can be created and launched on the internet in this part. In this w
 Use this link for more info (https://docs.github.com/en/get-started/quickstart/create-a-repo)
 
 
-2. Send an invitation for adding other team members as contributors to the repository. Use the setting tab and collaborators part in the left menu. Use add people button for adding team members to the repository. Use their GitHub username for inviting.
-
-Use this link for more info  (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
+2. Send an invitation for adding other team members as contributors to the repository. Use the setting tab and collaborators part in the left menu. Use add people button for adding team members to the repository. Use their GitHub username for inviting. Use this link for more info  (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
 
 
 3. Create a new colab notebook and save it in the repository
