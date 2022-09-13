@@ -17,7 +17,12 @@ Use this link for more info (https://docs.github.com/en/get-started/quickstart/c
 3. Create a new colab notebook and save it in the repository
 
 
+<p align="center">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3.png" width="250" height="250">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3_1.png" width="250" height="250">
+    <img src="https://github.com/HamidBekamiri/Hackathon_M1/blob/main/images/image_3_2.png" width="250" height="250">
 
+</p>
 
 
 
